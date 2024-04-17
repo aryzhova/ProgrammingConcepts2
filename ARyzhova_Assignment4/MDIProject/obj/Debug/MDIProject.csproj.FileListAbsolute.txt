@@ -1,0 +1,13 @@
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\bin\Debug\MDIProject.exe.config
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\bin\Debug\MDIProject.exe
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\bin\Debug\MDIProject.pdb
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.csprojAssemblyReference.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.AboutForm.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.MainForm.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.exe
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.pdb
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.TextForm.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment4\MDIProject\obj\Debug\MDIProject.ImageForm.resources

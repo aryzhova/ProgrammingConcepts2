@@ -1,0 +1,21 @@
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.formPhotoAlbum.resources
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+C:\Users\Anastasia\source\repos\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.CreateAlbumForm.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment2\PhotoAlbum\obj\Debug\PhotoAlbum.PhotoAlbumForm.resources

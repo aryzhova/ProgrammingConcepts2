@@ -1,0 +1,10 @@
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\bin\Debug\PizzaOrder.exe.config
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\bin\Debug\PizzaOrder.exe
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\bin\Debug\PizzaOrder.pdb
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\obj\Debug\PizzaOrder.csprojAssemblyReference.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\obj\Debug\PizzaOrder.PizzaForm.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\obj\Debug\PizzaOrder.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\obj\Debug\PizzaOrder.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\obj\Debug\PizzaOrder.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\obj\Debug\PizzaOrder.exe
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment\PizzaOrder\obj\Debug\PizzaOrder.pdb

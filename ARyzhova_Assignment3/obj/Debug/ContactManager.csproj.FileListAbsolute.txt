@@ -1,0 +1,22 @@
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\bin\Debug\ARyzhova_Assignment3.exe.config
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\bin\Debug\ARyzhova_Assignment3.exe
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\bin\Debug\ARyzhova_Assignment3.pdb
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.ContactManagerForm.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.AddContactForm.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\obj\Debug\ContactManager.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.exe
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.pdb
+C:\Users\Anastasia\Desktop\CONESTOGA\Programming Concepts II\ARyzhova_Assignment3\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\bin\Debug\ARyzhova_Assignment3.exe.config
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\bin\Debug\ARyzhova_Assignment3.exe
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\bin\Debug\ARyzhova_Assignment3.pdb
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.ContactManagerForm.resources
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.AddContactForm.resources
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\obj\Debug\ContactManager.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.exe
+C:\Users\Anastasia\Desktop\ARyzhova_Assignment3\obj\Debug\ARyzhova_Assignment3.pdb
